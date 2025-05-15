@@ -4,6 +4,7 @@
   "displayName": "material-icons-autocomplete",
   "description": "Material Icons autocomplete for Angular mat-icon tags",
   "version": "0.0.3",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
