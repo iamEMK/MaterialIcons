@@ -1,4 +1,4 @@
-# Material Icons Autocomplete for VS Code (v0.0.3)
+# Material Icons Autocomplete for VS Code (v0.0.4)
 
 A powerful Visual Studio Code extension that enhances Angular Material development by providing intelligent autocompletion and a visual picker for Material Design Icons within `<mat-icon>` tags. With over 2,500 icons, fast virtual scrolling, and seamless VS Code integration, this extension streamlines icon selection for Angular developers.
 
