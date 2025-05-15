@@ -62,7 +62,7 @@ async function loadIcons(): Promise<MaterialIcon[]> {
 
     // Load cached icons from extension resources
     const extensionPath = vscode.extensions.getExtension(
-      "EMK.material-icons-autocomplete"
+      "iamEMK.material-icons-autocomplete"
     )?.extensionPath;
     if (extensionPath) {
       const cachePath = path.join(

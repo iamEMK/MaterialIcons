@@ -1,11 +1,15 @@
 {
   "name": "material-icons-autocomplete",
-  "publisher": "EMK",
+  "publisher": "iamEMK",
   "displayName": "material-icons-autocomplete",
   "description": "Material Icons autocomplete for Angular mat-icon tags",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.100.0"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/iamEMK/MaterialIcons.git"
   },
   "categories": [
     "Other"
