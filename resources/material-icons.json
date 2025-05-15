@@ -1,0 +1,18 @@
+[
+    { "name": "sync", "category": "action", "tags": ["refresh", "rotate", "update"] },
+    { "name": "home", "category": "action", "tags": ["house", "main"] },
+    { "name": "settings", "category": "action", "tags": ["gear", "preferences"] },
+    { "name": "delete", "category": "action", "tags": ["trash", "remove"] },
+    { "name": "search", "category": "action", "tags": ["find", "magnify"] },
+    { "name": "person", "category": "social", "tags": ["user", "profile"] },
+    { "name": "email", "category": "communication", "tags": ["mail", "message"] },
+    { "name": "favorite", "category": "action", "tags": ["like", "star"] },
+    { "name": "add", "category": "action", "tags": ["plus", "create", "new"] },
+    { "name": "close", "category": "action", "tags": ["exit", "x"] },
+    { "name": "check", "category": "action", "tags": ["done", "complete"] },
+    { "name": "cloud_upload", "category": "file", "tags": ["upload", "save"] },
+    { "name": "cloud_download", "category": "file", "tags": ["download", "get"] },
+    { "name": "edit", "category": "action", "tags": ["modify", "pencil"] },
+    { "name": "alarm", "category": "action", "tags": ["clock", "time"] },
+    { "name": "place", "category": "maps", "tags": ["location", "pin"] }
+  ]
