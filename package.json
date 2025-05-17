@@ -1,9 +1,9 @@
 {
   "name": "material-icons-autocomplete",
   "publisher": "iamEMK",
-  "displayName": "material icons autocomplete",
+  "displayName": "Material icons autocomplete",
   "description": "Material Icons autocomplete for Angular mat-icon tags",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "resources/icons/logo.png",
   "license": "MIT",
   "engines": {
